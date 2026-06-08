@@ -14,7 +14,7 @@ I am particularly interested in developing machine learning and data analytics s
 
 ## 👩‍🎓 About Me
 
-I am a research-driven professional with a background in Accounting, Banking Operations, Fraud Investigation, Financial Analysis, and Educational Publishing.
+Research-driven scholar with a strong foundation in accounting, financial systems analysis, fraud investigation, educational publishing, and banking operations. My research interests focus on the application of Artificial Intelligence (AI), Machine Learning, Data Analytics, and Risk Modelling to financial fraud detection and prevention in emerging markets.
 
 I am also a published author writing under the name Elizabeth Awodola, with multiple books available on Amazon.
 
