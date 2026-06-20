@@ -1,59 +1,69 @@
-# Fraud Detection Analysis Using Transaction Pattern Monitoring
-Fraud Detection Analysis Using Transaction Pattern Monitoring
-Project Overview
+# FRAUD DETECTION ANALYSIS USING TRANSACTION PATTERN MONITORING
 
-This project focuses on identifying potentially fraudulent financial transactions using transaction monitoring, risk scoring, and anomaly detection techniques.
+## Fraud Detection Project
 
-The goal is to analyze transaction patterns, detect suspicious activities, and support financial fraud prevention using data analytics.
+## OBJECTIVE
 
-Project Objectives
-Identify unusual transaction patterns
-Detect high-risk transactions
-Analyze fraud indicators
-Develop a simple fraud risk scoring framework
-Dataset Features
+- To identify potentially fraudulent financial transactions using transaction monitoring, risk scoring, and data analytics techniques.
 
-The dataset includes:
+## DATASET
 
-Transaction ID
-Customer ID
-Transaction Amount
-Transaction Type
-Transaction Frequency
-Risk Score
-Fraud Flag
-Risk Category
-Transaction Status
-Fraud Detection Logic
-High Risk Rule
+Simulated banking transaction dataset containing:
 
-Risk Score > 75 = High Risk
+- Transaction ID
+- Customer ID
+- Amount
+- Transaction Type
+- Frequency
+- Risk Score
+- Fraud Flag
+- Risk Category
+- Transaction Status
 
-Suspicious Transaction Rule
+## METHODOLOGY
 
-Fraud Flag = Yes → Suspicious Transaction
+- Data cleaning
+- Descriptive statistics
+- Transaction pattern analysis
+- Fraud risk scoring
+- Identification of suspicious transactions
 
-Tools Used
-Microsoft Excel
-Data Analytics
-Risk Scoring
-Python (Planned Upgrade)
-Key Insights
-High-value transactions showed higher fraud risk
-Frequent withdrawals correlated with suspicious activity
-Transactions with risk scores above 75 were flagged as high risk
-Suspicious transactions were concentrated among high-value withdrawals and transfers
-Future Improvements
-Expand dataset to 500+ transactions
-Build interactive fraud dashboard
-Apply machine learning models
-Upgrade analysis using Python and Scikit-learn
-Research Relevance
+## FRAUD DETECTION RULES
+
+- Risk Score above 75 = High Risk
+- Fraud Flag = Yes = Suspicious Transaction
+
+## TOOLS USED
+
+- Microsoft Excel
+- Data Analytics
+- Risk Scoring
+- Python (Learning)
+
+## KEY FINDINGS
+
+- High-value transactions showed higher fraud risk
+- Frequent withdrawals were more likely to be suspicious
+- Transactions with high risk scores were flagged as high risk
+- Suspicious transactions were concentrated among withdrawals and transfers
+
+## EXPECTED OUTCOME
+
+- Improved understanding of transaction patterns, fraud indicators, and risk detection within financial systems.
+
+## FUTURE IMPROVEMENTS
+
+- Expand dataset to 500+ transactions
+- Build fraud dashboard
+- Apply machine learning models
+- Upgrade analysis using Python and Scikit-learn
+
+## RESEARCH RELEVANCE
 
 This project aligns with my research interests in:
 
-Financial Fraud Detection
-Artificial Intelligence
-Machine Learning
-Risk Analytics
-Financial Crime Prevention
+- Financial Fraud Detection
+- Artificial Intelligence
+- Machine Learning
+- Risk Analytics
+- Financial Crime Prevention
