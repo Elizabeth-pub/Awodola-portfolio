@@ -2,6 +2,12 @@
 
 ## Fraud Detection Project
 
+## Dashboard Preview
+
+Fraud analytics dashboard showing transaction monitoring, risk distribution, and fraud insights.
+
+![Fraud Dashboard](fraud_dashboard.png)
+
 ## OBJECTIVE
 
 - To identify potentially fraudulent financial transactions using transaction monitoring, risk scoring, and data analytics techniques.
