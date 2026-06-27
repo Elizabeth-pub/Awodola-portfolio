@@ -56,3 +56,9 @@ To assess customer creditworthiness using financial behaviour, risk indicators, 
 <li>Python (Learning)</li>
 </ul>
 </section>
+
+## Dashboard Preview
+
+Credit risk dashboard showing loan default trends, risk distribution, and customer employment insights.
+
+![Credit Risk Dashboard](credit_risk_dashboard.png)
