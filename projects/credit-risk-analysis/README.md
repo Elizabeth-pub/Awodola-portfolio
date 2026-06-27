@@ -62,3 +62,7 @@ To assess customer creditworthiness using financial behaviour, risk indicators, 
 Credit risk dashboard showing loan default trends, risk distribution, and customer employment insights.
 
 ![Credit Risk Dashboard](credit_risk_dashboard.png)
+
+## Project Files
+
+- Dataset: [Download Credit Risk Dataset](credit_risk_dataset.xlsx)
