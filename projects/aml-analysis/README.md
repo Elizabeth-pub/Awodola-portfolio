@@ -2,6 +2,16 @@
 
 ## AML Analytics Project
 
+## Dashboard Preview
+
+AML dashboard showing suspicious transaction trends, risk distribution, and transaction type insights.
+
+![AML Dashboard](aml_dashboard.png)
+
+## Project Files
+
+- Dataset: [Download AML Dataset](aml_dataset.xlsx)
+
 ## OBJECTIVE
 
 - To identify suspicious financial transactions using AML risk scoring, transaction monitoring, and data analytics techniques.
@@ -67,3 +77,4 @@ This project aligns with my research interests in:
 - Anti-Money Laundering
 - Artificial Intelligence
 - Machine Learning
+- Risk Analytics
