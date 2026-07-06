@@ -38,6 +38,18 @@ Simulated fraud dataset containing:
 - Scikit-learn
 - Matplotlib
 
+## PROJECT FILES
+
+- Dataset: [Download Fraud ML Dataset](fraud_ml_dataset.xlsx)
+- Python Script: [View fraud_detection.py](fraud_detection.py)
+
+## PYTHON LIBRARIES
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
 ## MODEL EVALUATION
 
 Performance metrics used:
