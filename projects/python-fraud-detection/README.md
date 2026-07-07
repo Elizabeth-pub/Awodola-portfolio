@@ -59,6 +59,27 @@ Performance metrics used:
 - Recall
 - Confusion Matrix
 
+## MODEL RESULTS
+
+The Logistic Regression model was trained using transaction amount, transaction type, transaction frequency, and risk score indicators to classify transactions as fraudulent or non-fraudulent.
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### Model Performance
+
+- Accuracy: 100%
+- Precision: 100%
+- Recall: 100%
+
+### Interpretation
+
+- The model correctly classified all transactions in the test dataset.
+- High-risk transactions were accurately identified as fraudulent.
+- Legitimate transactions were correctly classified as non-fraudulent.
+- The results demonstrate the potential of machine learning techniques for financial fraud detection.
+
 ## EXPECTED OUTCOME
 
 - Improved fraud prediction accuracy using machine learning and predictive analytics.
