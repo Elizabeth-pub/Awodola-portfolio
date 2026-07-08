@@ -43,6 +43,7 @@ Simulated fraud dataset containing:
 - Dataset: [Download Fraud ML Dataset](fraud_ml_dataset.xlsx)
 - Python Script: [View Python Script](fraud_detection.py)
 - Jupyter Notebook: [View Notebook](Fraud_Detection_Project.ipynb)
+- Trained Model: [Download Saved Model](fraud_detection_model.pkl)
 
 ## PYTHON LIBRARIES
 
