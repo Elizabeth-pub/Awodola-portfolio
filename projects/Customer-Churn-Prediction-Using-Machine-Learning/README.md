@@ -1,41 +1,57 @@
 # CUSTOMER CHURN PREDICTION USING MACHINE LEARNING
 
-## PROJECT OVERVIEW
+## Customer Churn Prediction Project
 
-- This project demonstrates how Machine Learning can be used to predict customer churn based on customer behaviour and account information.
-- Customer churn occurs when a customer stops using a company's products or services.
-- Predicting churn helps businesses identify at-risk customers and take proactive measures to improve retention.
-- The project uses Python, Machine Learning, and Data Analytics techniques to build a predictive model.
+## Model Performance Preview
 
-## PREDICTION CLASSES
+Customer churn prediction model showing customer retention analysis, churn classification, and machine learning insights.
 
-- 0 = Customer Retained
-- 1 = Customer Churned
+![Confusion Matrix](confusion_matrix.png)
 
-## OBJECTIVES
+## OBJECTIVE
 
-- Build a Machine Learning model for customer churn prediction.
-- Perform data preprocessing and cleaning.
-- Train and evaluate a classification model.
-- Generate a confusion matrix for performance evaluation.
-- Save the trained model for future predictions.
+- To predict customers who are likely to discontinue a service using machine learning and customer behavioural data.
+- To help businesses identify at-risk customers and improve customer retention strategies.
+- To demonstrate the application of predictive analytics in customer relationship management.
 
-## DATASET FEATURES
+## DATASET
 
-- Customer_ID
+Simulated customer dataset containing:
+
+- Customer ID
 - Age
-- Monthly_Charges
-- Tenure_Months
-- Number_of_Complaints
-- Contract_Type
-- Payment_Method
-- Churn
+- Monthly Charges
+- Tenure Months
+- Number of Complaints
+- Contract Type
+- Payment Method
+- Churn Status
 
 ## TARGET VARIABLE
 
 - Churn
+  - 0 = Customer Retained
+  - 1 = Customer Churned
 
-## TOOLS AND TECHNOLOGIES
+## METHODOLOGY
+
+- Data collection and preparation
+- Data cleaning
+- Feature selection
+- Data encoding
+- Machine learning model training
+- Customer churn prediction
+- Model evaluation using confusion matrix and classification metrics
+
+## MACHINE LEARNING TECHNIQUES
+
+- Random Forest Classifier
+- Train-Test Split
+- Feature Engineering
+- Predictive Analytics
+- Classification Modelling
+
+## TOOLS USED
 
 - Python
 - Pandas
@@ -43,61 +59,48 @@
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Joblib
 - Google Colab
 - GitHub
 
-## METHODOLOGY
+## KEY FINDINGS
 
-### Data Collection
+- Customers with shorter tenure showed a higher likelihood of churn.
+- Customers with multiple complaints were more likely to discontinue services.
+- Monthly charges influenced customer retention behaviour.
+- Machine learning successfully identified churn patterns from customer data.
+- Predictive analytics can support proactive customer retention strategies.
 
-- Create a simulated customer churn dataset.
+## MODEL OUTPUTS
 
-### Data Preprocessing
+- Customer churn predictions
+- Accuracy score
+- Classification report
+- Confusion matrix
+- Trained machine learning model (.pkl)
 
-- Clean the dataset.
-- Prepare features for analysis.
-- Convert categorical variables into numerical format.
+## EXPECTED OUTCOME
 
-### Model Training
+- Improved understanding of customer behaviour and churn indicators.
+- Early identification of customers at risk of leaving.
+- Demonstration of machine learning techniques for business decision-making.
+- Enhanced customer retention planning through predictive analytics.
 
-- Train a Random Forest Classifier using customer data.
+## FUTURE IMPROVEMENTS
 
-### Model Evaluation
+- Expand dataset to 1,000+ customer records.
+- Compare multiple machine learning algorithms.
+- Develop an interactive customer churn dashboard.
+- Deploy the model as a web application.
+- Integrate real-world customer datasets.
 
-- Calculate Accuracy Score.
-- Generate a Classification Report.
-- Create a Confusion Matrix.
+## RESEARCH RELEVANCE
 
-### Model Saving
+This project aligns with my research interests in:
 
-- Save the trained model as:
-  - churn_model.pkl
-
-## PROJECT FILES
-
-- README.md
-- customer_churn.py
-- Customer_Churn_Prediction.ipynb
-- churn_dataset.xlsx
-- churn_model.pkl
-- confusion_matrix.png
-
-## EXPECTED OUTPUTS
-
-- Customer churn predictions.
-- Accuracy score.
-- Classification report.
-- Confusion matrix visualization.
-- Saved machine learning model.
-
-## KEY SKILLS DEMONSTRATED
-
-- Customer Analytics
-- Predictive Modelling
+- Data Science
 - Machine Learning
-- Data Cleaning
-- Classification Techniques
-- Model Evaluation
+- Predictive Analytics
+- Customer Behaviour Analysis
 - Business Intelligence
-- Data Visualization
+- Artificial Intelligence
+- Risk Analytics
